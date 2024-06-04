@@ -1,5 +1,5 @@
 
-> Open this page at [https://rddanan.github.io/coding-and-robotics-2024/](https://rddanan.github.io/coding-and-robotics-2024/)
+> Open this page at [https://GTA-TeleGuam.github.io/coding-and-robotics-2024/](https://GTA-TeleGuam.github.io/coding-and-robotics-2024/)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/rddanan/coding-and-robotics-2024** and import
+* search for **https://github.com/GTA-TeleGuam/coding-and-robotics-2024** and import
 
 ## Edit this project
 
@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/rddanan/coding-and-robotics-2024** and click import
+* paste **https://github.com/GTA-TeleGuam/coding-and-robotics-2024** and click import
 
 #### Metadata (used for search, rendering)
 
