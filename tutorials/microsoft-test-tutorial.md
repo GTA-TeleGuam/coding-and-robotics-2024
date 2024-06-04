@@ -1,7 +1,3 @@
-```package
-microbit_robot=github:microsoft/microbit-robot
-```
-
 # Micro:bit Robot Getting Started
 [Click here to run this tutorial](https://makecode.microbit.org/#tutorial:github:GTA-TeleGuam/coding-and-robotics-2024/tutorials/microsoft-test-tutorial)
 
