@@ -9,6 +9,7 @@ microbit_robot=github:microsoft/microbit-robot
 In this tutorial you will learn how to use the line sensors to follow a line
 on their left side. We will use the left and right sensors typically located near the metal ball under the robot
 (some robots have more).
+![two line following sensors underneath the CuteBot](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/microbit-smart-car/microbit-smart-cutebot/images/cutebot_01_09.jpg)
 
 ## Choose the robot type @showhint
 
