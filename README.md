@@ -2,6 +2,7 @@
 > Open this page at [https://GTA-TeleGuam.github.io/coding-and-robotics-2024/](https://GTA-TeleGuam.github.io/coding-and-robotics-2024/)
 
 ## Tutorials
+- [Test Tutorial](https://makecode.microbit.org/#tutorial:github:GTA-TeleGuam/coding-and-robotics-2024/tutorials/microsoft-test-tutorial)
 - [Geting Started with micro:bit CuteBot](https://makecode.microbit.org/#tutorial:github:GTA-TeleGuam/coding-and-robotics-2024/tutorials/getting-started)
 - [Robot motor drift calibration](https://makecode.microbit.org/#tutorial:github:GTA-TeleGuam/coding-and-robotics-2024/tutorials/motor-drift-calibration)
 

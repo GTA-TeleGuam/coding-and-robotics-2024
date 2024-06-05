@@ -4,6 +4,7 @@ microbit_robot=github:microsoft/microbit-robot
 
 # Micro:bit Robot Getting Started
 Modified from https://github.com/microsoft/microbit-robot/blob/main/tutorials/getting-started.md
+
 [Click here to run this tutorial](https://makecode.microbit.org/#tutorial:github:GTA-TeleGuam/coding-and-robotics-2024/tutorials/microsoft-test-tutorial)
 
 ## Getting started @showdialog

@@ -10,11 +10,11 @@
         "main.blocks",
         "main.ts",
         "README.md",
+        "tutorials/microsoft-test-tutorial.md",
         "tutorials/getting-started.md",
         "tutorials/motor-drift-calibration.md",
         "tutorials/line-following-sensor.md",
         "tutorials/ultrasonic-sensor.md"
-
     ],
     "testFiles": [
         "test.ts"
