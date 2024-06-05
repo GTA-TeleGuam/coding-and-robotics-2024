@@ -2,10 +2,12 @@
 > Open this page at [https://GTA-TeleGuam.github.io/coding-and-robotics-2024/](https://GTA-TeleGuam.github.io/coding-and-robotics-2024/)
 
 ## Tutorials
-- (Geting Started with micro:bit CuteBot)[https://makecode.microbit.org/#tutorial:github:GTA-TeleGuam/coding-and-robotics-2024/tutorials/getting-started]
+- [Geting Started with micro:bit CuteBot](https://makecode.microbit.org/#tutorial:github:GTA-TeleGuam/coding-and-robotics-2024/tutorials/getting-started)
+- [Robot motor drift calibration](https://makecode.microbit.org/#tutorial:github:GTA-TeleGuam/coding-and-robotics-2024/tutorials/motor-drift-calibration)
 
 ### Sensors
-- (Line following sensor)[https://makecode.microbit.org/#tutorial:github:GTA-TeleGuam/coding-and-robotics-2024/tutorials/line-following-sensor]
+- [Line following sensor](https://makecode.microbit.org/#tutorial:github:GTA-TeleGuam/coding-and-robotics-2024/tutorials/line-following-sensor)
+- [Ultrasonic sensor (WIP)](https://makecode.microbit.org/#tutorial:github:GTA-TeleGuam/coding-and-robotics-2024/tutorials/line-following-sensor)
 
 ## Use as Extension
 
