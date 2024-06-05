@@ -54,7 +54,7 @@ robot.onLineLeftRightDetected(false, false, function () {
 
 ## Best setup for line following
 
-Using tank to move instead of steer
+Using the `||robot:robot tank||` block to move instead of the steer block
 
 ```blocks
 robot.onLineLeftRightDetected(true, true, function () {
