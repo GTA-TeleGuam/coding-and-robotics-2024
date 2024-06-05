@@ -1,6 +1,12 @@
 
 > Open this page at [https://GTA-TeleGuam.github.io/coding-and-robotics-2024/](https://GTA-TeleGuam.github.io/coding-and-robotics-2024/)
 
+## Tutorials
+- (Geting Started with micro:bit CuteBot)[https://makecode.microbit.org/#tutorial:github:GTA-TeleGuam/coding-and-robotics-2024/tutorials/getting-started]
+
+### Sensors
+- (Line following sensor)[https://makecode.microbit.org/#tutorial:github:GTA-TeleGuam/coding-and-robotics-2024/tutorials/line-following-sensor]
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
